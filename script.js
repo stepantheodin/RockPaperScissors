@@ -49,4 +49,4 @@ const playerSelection = 'rock'
 const computerChoice = getComputerChoice();
 
 
-console.log(game());
+game();
